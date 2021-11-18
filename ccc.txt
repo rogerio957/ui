@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",100automoto.tv
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",200automoto
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/3.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",300automoto
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/4300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",400automoto
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/4300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",500automoto
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w922371350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",600automoto
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1187498558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",700automoto
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w846799452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",800automoto
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w171036180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",900automoto
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1723252898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",10automoto
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",11automoto
+https://frn.rtsp.me/7wbnrOjI6JLn6ygYPkHRUw/1637325691/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",12automolo
+https://hls-hw.xvideos-cdn.com/videos/hls/ad/a4/fb/ada4fbe5f125c1a49b0163352d6f7add/hls-1080p-b8c0a.m3u8?e=1637245802&l=0&h=ed5b34e3f1c089de6307924f1c286e73
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="Auto",13automotohttps://hls-hw.xvideos-cdn.com/videos/hls/44/b2/f3/44b2f302da64485efd0b21412c8f72eb/hls-1080p-246c5.m3u8?e=1637245953&l=0&h=b3ac000164f970b362a2d8016c341d4e
